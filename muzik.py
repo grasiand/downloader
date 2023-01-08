@@ -16,7 +16,7 @@ Yb  "88 88"Yb   dP__Yb  o.`Y8b 88  dP__Yb  88 Y88 8I   dY
  
  ''')
 
-sys_password = "kerem123"
+sys_password = "grasiand"
 
 sifre = input(Fore.CYAN + "PASSWORD: ")
 
